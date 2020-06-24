@@ -1,0 +1,86 @@
+body{
+    background: #d2d2c1 url('imagens/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+    width: 1000px;
+}
+
+#menu {
+    padding: 18px;
+    background: #c5c5b2;
+    
+}
+
+#conteudo {
+    
+    padding: 9px;
+    background: #e8e8d9;
+
+    border: solid 1px black;
+}
+
+#final {
+    padding: 3px;
+    background: #c5c5b2;
+
+    border: solid 1px black;
+    border-top: none;
+
+    text-align: center;
+    font-weight: bold;
+    font-size: medium;
+}
+
+a {
+    padding: 59px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: #414b5d;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+
+.centralizarh1 {
+    text-align: center;
+}
+
+.paragrafo {
+    margin-left: 10px;
+    font-size: 17px;
+}
+
+.centralizarh4 {
+    text-align: center;
+}
+
+/* campanhas-publicitárias.html */
+
+.campanhas {
+    border: 13px #c5c5b2 inset;  
+}
+
+/* contato.html */
+
+#contatofinal {
+    margin-bottom: 16px;
+
+    text-align: center;
+}
+
+.contato4 {
+    width: 820px;
+
+    border: 13px #c5c5b2 inset;  
+
+    align-content: center;
+
+    margin-left: 50px;
+}
